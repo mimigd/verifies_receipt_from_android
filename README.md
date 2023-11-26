@@ -1,11 +1,8 @@
-
-
-
 # 驗證 Android 裝置的訂單
 
 這些代碼用來驗證來自Android的訂單(收據)
 
-申請json金鑰請參考[此教學](Requesting_Android_Payment_Key_Guide\Guide.md)
+申請json金鑰請參考[此教學](https://github.com/mimigd/verifies_receipt_from_android/blob/main/Requesting_Android_Payment_Key_Guide/Guide.md)
 
 ## 準備環境
 
